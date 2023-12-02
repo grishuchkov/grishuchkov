@@ -1,4 +1,4 @@
-### <div align="center">I'm Girshuchkov Danila, a trainee/junior JAVA BACKEND developer 👨‍💻 </div>  
+### <div align="center">Trainee/Junior BACKEND JAVA developer 👨‍💻 </div>  
   
 
 - 🔭 All my pet projects you can find at my [repositories](https://github.com/grishuchkov?tab=repositories).  
@@ -13,7 +13,7 @@
 
 
 ### 📫 Connect with me: 
-<div align="center">
+<div align="left">
 
 <a href="https://t.me/ggnavi" target="_blank">
 <img src=https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=whitealt=linkedin style="margin-bottom: 5px;" />
