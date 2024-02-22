@@ -1,4 +1,4 @@
-### <div align="center">Trainee/Junior BACKEND JAVA developer 👨‍💻 </div>  
+### <div align="center">BACKEND JAVA developer 👨‍💻 </div>  
   
 
 - 🔭 All my pet projects you can find at my [repositories](https://github.com/grishuchkov?tab=repositories).  
