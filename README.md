@@ -4,7 +4,7 @@
 - 🔭 All my pet projects you can find at my [repositories](https://github.com/grishuchkov?tab=repositories).  
   
 
-- 🌱 I'm currently studying the Spring Framework and the basics of application architecture.  
+- 🌱 Know a lot of frameworks of Java Backend world.  
   
 
 - ⚡I'm glad to meet new people. Text me, if you want!  
