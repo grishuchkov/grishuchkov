@@ -15,7 +15,7 @@
 ### 📫 Connect with me: 
 <div align="left">
 
-<a href="https://t.me/ggnavi" target="_blank">
+<a href="https://t.me/grishuchkov" target="_blank">
 <img src=https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=whitealt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://github.com/grishuchkov" target="_blank">
