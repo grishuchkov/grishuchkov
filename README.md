@@ -1,17 +1,4 @@
 ### <div align="center">BACKEND JAVA developer 👨‍💻 </div>  
-  
-
-- 🔭 All my pet projects you can find at my [repositories](https://github.com/grishuchkov?tab=repositories).  
-  
-
-- 🌱 Know a lot of frameworks of Java Backend world.  
-  
-
-- ⚡I'm glad to meet new people. Text me, if you want!  
-  
-
-
-
 ### 📫 Connect with me: 
 <div align="left">
 
