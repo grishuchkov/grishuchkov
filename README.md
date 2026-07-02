@@ -1,4 +1,4 @@
-### <div align="center">BACKEND JAVA developer 👨‍💻 </div>  
+### <div align="center">Backend developer 👨‍💻 </div>  
 ### 📫 Connect with me: 
 <div align="left">
 
